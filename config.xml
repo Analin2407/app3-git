@@ -5,10 +5,10 @@
   id ="com.phonegap.example2"
   version ="1.0.0">
   
-  <name>app2 Telefonia celular en mexico</name>
+  <name>app3 La contaminacion</name>
   
   <description>
-  Aplicacion que muestra la informacion sobre la telefonia celular</description>
+  Aplicacion que muestra la informacion sobre la contaminacion</description>
   
   
   <author href="https://build.phonegap.com" email="anigonzalez2224@gmail.com">
